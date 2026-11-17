@@ -1,51 +1,50 @@
-Food Delivery Analytics Project
+Food Delivery Analytics Dashboard – Excel
 
 Project Overview
 
-This project focuses on analyzing food delivery data to understand sales performance, customer behavior, order trends, discount patterns, and delivery performance. The objective is to transform raw data into meaningful business insights using data analytics tools.
+This project focuses on analyzing food delivery data using Microsoft Excel to understand sales performance, customer behavior, discount patterns, order trends, and delivery performance through an interactive dashboard.
 
 Dataset Information
 
-- Total Records: 9,000
-- Data Domain: Food Delivery
-- Data Type: Structured Dataset
+- Total Records: 8,000
+- Domain: Food Delivery
+- Tool Used: Microsoft Excel
 
-Tools & Technologies
+Tools & Features
 
-- Python – Data Cleaning, Data Processing and Exploratory Data Analysis
-- Pandas & NumPy – Data Manipulation and Analysis
-- MySQL – Data Querying and Analysis
-- Microsoft Excel – Data Analysis and Dashboard Creation
-- Power BI – Interactive Data Visualization
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Interactive Dashboard
 
 Project Objectives
 
-- Analyze overall sales and net revenue.
-- Understand customer ordering patterns.
-- Evaluate delivery performance.
-- Identify discount trends.
-- Analyze order and payment patterns.
-- Generate meaningful business insights.
+- Analyze gross sales and net sales.
+- Understand discount patterns.
+- Evaluate order trends.
+- Analyze customer and payment behavior.
+- Understand delivery performance.
+- Present business insights through an interactive dashboard.
 
 Project Workflow
 
-1. Data Understanding
-2. Data Cleaning and Preprocessing using Python
-3. Exploratory Data Analysis using Python
-4. Data Analysis using MySQL
-5. Data Analysis and Dashboard Creation using Excel
-6. Interactive Dashboard Development using Power BI
+1. Dataset Understanding
+2. Data Cleaning and Preparation
+3. Data Analysis
+4. Pivot Table Creation
+5. Pivot Chart Development
+6. Interactive Dashboard Creation using Slicers
 
 Key Skills Demonstrated
 
-Python | Pandas | NumPy | MySQL | Excel | Power BI | Data Cleaning | EDA | Data Visualization | Business Analytics
+Microsoft Excel | Data Cleaning | Data Analysis | Pivot Tables | Pivot Charts | Slicers | Dashboard Development | Data Visualization
 
-Project Status
+Project Outcome
 
-Python Analysis: Completed
-MySQL Analysis: In Progress
-Excel Dashboard: Completed
-Power BI Dashboard: In Progress
+Developed an interactive Excel dashboard using 8,000 food delivery records to analyze business performance and generate meaningful insights.
 
 Author
 
